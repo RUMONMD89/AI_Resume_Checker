@@ -1,2 +1,2 @@
-# Smart_Resume_Filter
+# AI Resume_screener
 Natural language processing (NLP) Project
